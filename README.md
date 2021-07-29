@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mosharof
-- 👀 I’m interested in AI,Robotics,Embedded System
+- 👀 I’m interested in AI, Robotics, Machine Learning, Embedded System
 - 💞️ I’m looking to collaborate on this topic
 - 📫 Here is my linkedin profile:https://www.linkedin.com/in/mosharof-hossain-a645191a9/
 
