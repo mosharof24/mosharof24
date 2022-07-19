@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mosharof
 - 👀 I’m interested in AI, Robotics, Machine Learning, Embedded System
-- 💞️ I’m looking to collaborate on this topic
+- 💞️ I’m looking to collaborate on the topic mentioned above
 - 📫 Here is my linkedin profile:https://www.linkedin.com/in/mosharof-hossain-a645191a9/
 
 <!---
